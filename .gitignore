@@ -1,0 +1,4 @@
+## Build generated
+DerivedData/
+xcuserdata/
+.DS_Store
