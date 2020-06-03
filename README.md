@@ -8,7 +8,7 @@ The first button has only the Neumorphic style, but keeps the normal behaviour o
 
 ## Selectable Button
 
-The Neumorphic Selectable ButtonStyle will keep the state once selected. It is constructed to toggle its colors in order to achive a good affordance and feedback.
+The Neumorphic Selectable ButtonStyle will keep the state once selected. It is constructed to toggle its colors in order to achieve a good affordance and feedback.
 
 ## Tappable Button
 
@@ -16,6 +16,9 @@ The Neumorphic Tappable ButtonStyle only flashes the color toggling. Also design
 
 Build using Xcode 11.5
 
+## Sample Images
+If you don't see them, you will find them on the images folder.
+
 Light | Dark
 ------------ | -------------
-!["App in Light Appearance"](/images/light.png?raw=true) | !["App in Dark Appearance"](/images/dark.png?raw=true)
+!["App in Light Appearance"](./images/light.png?raw=true) | !["App in Dark Appearance"](./images/dark.png?raw=true)
